@@ -13,5 +13,6 @@ Página Flex 4 HTML com vinculo ao Github desenvolvido durante a disciplina de L
 & Github
 
 ## Autor
-[ANA CATARINA](www.linkedin.com/in/analourencofer013)# flex-4
+[ANA CATARINA](www.linkedin.com/in/analourencofer013)
+
 
